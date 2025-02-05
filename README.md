@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello Hello 👋
+
+**`Computer Science Student/ Game Design Enjoyer/ Artist`**
 
 <!--
 **FranciscoPaulino08/FranciscoPaulino08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
