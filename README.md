@@ -17,10 +17,9 @@ I'm currently a Computer Scinece Student, with a love for games and art.
 <br />
 
 ---
+[Instagram]: https://www.instagram.com/kaito.art08
 
 [website]: not yet 
-
-[Instagram]: https://www.instagram.com/kaito.art08
 
 #
 <!--
