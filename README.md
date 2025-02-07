@@ -2,7 +2,7 @@
 
 **`Computer Science Student/ Game Design Enjoyer/ Artist`**
 
-I'm currently a Computer Scinece Student, with a love for games and art.
+I'm currently a Computer Science Student, with a love for games and art.
 
 </p>
 
