@@ -1,8 +1,8 @@
-## Hello Hello 👋
+## Hello Hello 👋 
 
-**`Computer Science Student/ Game Design Enjoyer/ Artist`**
-
-I'm currently a Computer Science Student, with a love for games and art.
+**`BSc in Computer Science from Universidade do Minho 🇵🇹`**
+**`Future Game Designer`**
+**`Artist`**
 
 </p>
 
@@ -18,9 +18,7 @@ I'm currently a Computer Science Student, with a love for games and art.
 
 ---
 ### 📌 Socials
--> [Instagram]: https://www.instagram.com/kaito.art08
 </p>
--> [website]: not yet 
 
 #
 <!--
