@@ -28,7 +28,7 @@
 
 ---
 ### 📌 Academic Material
-  - [**Algorithms and Complexities Holy Grail**](https://github.com/FranciscoPaulino08/AlgoritmosComplexidades) – Resolução de exercícios + notas de estudo
+  - [**Algorithms and Complexity Holy Grail**](https://github.com/FranciscoPaulino08/AlgoritmosComplexidades) – Resolução de exercícios + notas de estudo
 ---
 
 ### 📌 Contact
