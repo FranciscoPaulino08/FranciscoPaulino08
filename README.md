@@ -15,6 +15,7 @@
   <img  src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img  src="https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
   <img  src="https://img.shields.io/badge/krita-%FF1493.svg?style=for-the-badge&logo=krita&logoColor=pink" />
+  <img  src="https://img.shields.io/badge/RPGMAKERMV-%FF1493.svg?style=for-the-badge&logo=RPGMakerMV&logoColor=white" />
   <img  src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img  src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img  src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
